@@ -6,9 +6,11 @@
 2. Select _Save as PDF_ in the _Destination_ dropdown menu.
 3. Click _Save_.
 
-Note that if line numbers don't appear on all pages, you may need to scroll through the document to have them render.
+{% hint style="info" %}
+If line numbers don't appear on all pages, you may need to scroll through the document to have them render before exporting.
 
 Alternatively, if that doesn't work, in step 2, try selecting _Save to Google Drive_ instead.
+{% endhint %}
 
 ## Export to a Word Document
 

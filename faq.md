@@ -4,7 +4,7 @@
 
 If you have properly followed the [quick start guide](quickstart.md) and double-checked that the _Show line numbering_ checkbox is checked in your document. Then try to reload the Google Docs documents, restart your browser and check that the extension is enabled by going to _chrome://extensions/_ in the URL bar.
 
-If you still can't see the line numbers on your document please [reach out]() for help.
+If you still can't see the line numbers on your document please [reach out](https://linenumbers.app/contact) for help.
 
 ## Not all line numbers show up when printing or saving to PDF, why?
 
@@ -14,7 +14,7 @@ Make sure you follow the instruction found in the [Exporting Line Numbers](expor
 
 ## Can students and academics get a premium subscription for free?
 
-If you are working in academia as a teacher or professor, or are a student then you can [contact me]() using your academic email address to request a free subscription.
+If you are working in academia as a teacher or professor, or are a student then you can [contact me](https://linenumbers.app/contact) using your academic email address to request a free subscription.
 
 ## Why is it slow?
 

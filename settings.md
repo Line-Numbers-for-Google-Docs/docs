@@ -37,19 +37,5 @@ If you want to exclude or include certain parts of the document from the line co
 
 * **Blank lines**: toggles the numbering or empty/blank lines in the document.
 * **Headers**: toggles the numbering of the header sections in the document.
-* **Footers**: toggles the numbering of the footer sections in the document.
-
-  
-    .markdown-section h4 {  
-        margin-bottom: 0;  
-    }  
-  
-    .markdown-section p {  
-        margin-top: 5px;  
-    }  
-  
-    .markdown-section ul {  
-        margin-top: 0;  
-    }  
-
+* **Footers**: toggles the numbering of the footer sections in the document. 
 

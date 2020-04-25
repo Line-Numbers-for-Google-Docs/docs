@@ -1,6 +1,6 @@
-# Create a Pleading Document
+# Pleading Documents
 
-> ![Line Numbers for Google Docs Pleading Document Template](.gitbook/assets/pleading-document-template.png)
+![Line Numbers for Google Docs Pleading Document Template](.gitbook/assets/pleading-document-template.png)
 
 Coming up in next version of the extension. Release pending approval \(expected within the next few days\).
 

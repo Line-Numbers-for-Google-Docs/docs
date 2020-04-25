@@ -12,6 +12,12 @@ This issue may arise when to entire document was not properly loaded. Try scroll
 
 Make sure you follow the instruction found in the [Exporting Line Numbers](export.md) section.
 
+## Why must I sign in with Google to use the extension?
+
+Signing in with Google allows us to properly keep track of and secure your line numbering settings. Document settings are associated to a single user and only that user has immediate access to edit those line numbering settings. This means your line numbering settings will immediatly be accessible on any device the extension is installed on. 
+
+Other users with whom the document is shared may also want to edit these settings. Being signed in with Google simplifies the authentication and permission handling of the line numbering settings. In the case that the user is not the owner of the line numbering settings, the user will be asked to give permission to the extension to access the document to check if the user has write permissions to the document and if so will be allowed to modify the line numbering settings. This means you can share your document with other users and they will also have and be able to modify the same numbering settings when editing the document if they also have the extension installed.
+
 ## Can students and academics get a premium subscription for free?
 
 If you are working in academia as a teacher or professor, or are a student then you can [contact me](https://linenumbers.app/contact) using your academic email address to request a free subscription.

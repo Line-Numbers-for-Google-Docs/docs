@@ -20,5 +20,5 @@ If you are working in academia as a teacher or professor, or are a student then 
 
 If your document is very big then Google Docs starts slowing down substantially — this is a known problem to Google. So the performance problems you are experiencing may have nothing to do with the extension itself.
 
-You should try disabling the extension by going to _chrome://extensions/_ in the URL bar. Then reload your document and check if the performance problems are still apparent. If you notice an increase in performance please [contact me]() so that I can look into it.
+You should try disabling the extension by going to _chrome://extensions/_ in the URL bar. Then reload your document and check if the performance problems are still apparent. If you notice an increase in performance please [contact me](https://linenumbers.app/contact) so that I can look into it.
 

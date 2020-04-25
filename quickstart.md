@@ -20,7 +20,7 @@ In the **top right** corner of your document you should see a **new icon** injec
 
 If you do not see this icon, please try restarting Chrome and reloading the Google Docs page.
 
-If you are still experiencing problems with this, please [**contact me** ]() so that I can fix this problem for you.
+If you are still experiencing problems with this, please [**contact me** ](https://linenumbers.app/contact) so that I can fix this problem for you.
 
 ### 4. Enable line numbering
 
@@ -38,5 +38,5 @@ Your settings will be synchronized across your devices if you are logged in to t
 
 ## Not working?
 
-If anything is not working please check out the [**FAQ**](faq.md) or [**contact me**]() so that I can try and fix it.
+If anything is not working please check out the [**FAQ**](faq.md) or [**contact me**](https://linenumbers.app/contact) so that I can try and fix it.
 

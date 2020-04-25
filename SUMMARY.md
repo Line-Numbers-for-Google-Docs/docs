@@ -7,4 +7,5 @@
 * [Premium](premium.md)
 * [Export Line Numbers](export.md)
 * [Pleading Documents](pleading.md)
+* [Changelog](changelog.md)
 

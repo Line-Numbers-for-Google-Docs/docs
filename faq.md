@@ -18,6 +18,15 @@ Signing in with Google allows us to properly keep track of and secure your line 
 
 Other users with whom the document is shared may also want to edit these settings. Being signed in with Google simplifies the authentication and permission handling of the line numbering settings. In the case that the user is not the owner of the line numbering settings, the user will be asked to give permission to the extension to access the document to check if the user has write permissions to the document and if so will be allowed to modify the line numbering settings. This means you can share your document with other users and they will also have and be able to modify the same numbering settings when editing the document if they also have the extension installed.
 
+## Why is access to my Google Docs documents required?
+
+This permission is not requested by default and you do not need to grant us this access for most use of Line Numbers. However, in certain cases, we may ask for access to your Google Docs documents through Google's API. 
+
+Access to your Google Docs documents is required if: 
+
+* You want to edit the line numbering settings on a shared Google Docs document. In this case, access to your Google Docs documents through the Google API is used to verify you have permission to edit the shared document. Only if it is the case will you be allowed to modify existing line numbering settings for the document.
+* You want to explicitly specify sections of texts to or to not number. In this case, access to your Google Docs documents is required to created named ranges in the document itself. Named ranges allow us to keep track of sections of texts to or to not numbers as you add conent to your document.
+
 ## Can students and academics get a premium subscription for free?
 
 If you are working in academia as a teacher or professor, or are a student then you can [contact me](https://linenumbers.app/contact) using your academic email address to request a free subscription.

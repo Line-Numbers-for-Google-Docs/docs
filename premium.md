@@ -16,21 +16,23 @@ If you enjoy the extension or find it useful please consider getting a premium s
 
 1. Open the **extension popup menu** found in the top right corner of your Chrome toolbar \(circled in red below\).
 
-> ![Line Numbers for Google Docs Popup Location](.gitbook/assets/extension-popup-location.png)
+   ![Line Numbers for Google Docs Popup Location](.gitbook/assets/extension-popup-location.png)
 
-1. **Sign in** if you haven't already.
+2. **Sign in** if you haven't already.
 
-> ![Line Numbers for Google Docs Sign in Popup](.gitbook/assets/sign-in-popup.png)
+   ![Line Numbers for Google Docs Sign in Popup](.gitbook/assets/sign-in-popup.png)
 
-1. In the same popup menu, click on **Go Premium**.
+3. In the same popup menu, click on **Go Premium**.
 
-> ![Line Numbers for Google Docs Go Premium Popup](.gitbook/assets/go-premium-popup.png)
+   ![Line Numbers for Google Docs Go Premium Popup](.gitbook/assets/go-premium-popup.png)
 
-1. Select how much you want to pay per year and click on **Support**.
+4. Select how much you want to pay per year and click on **Support**.
 
-> ![Line Numbers for Google Docs Checkout Popup](.gitbook/assets/checkout-popup.png)
+   ![Line Numbers for Google Docs Checkout Popup](.gitbook/assets/checkout-popup.png)
 
-1. A new tab should open that will redirect you to a secure Stripe® checkout page to complete your purchase.
+5. A new tab should open that will redirect you to a secure Stripe® checkout page to complete your purchase.
 
-> ![Line Numbers for Google Docs Checkout Stripe](.gitbook/assets/checkout.png)
+   ![Line Numbers for Google Docs Checkout Stripe](.gitbook/assets/checkout.png)
+
+>
 

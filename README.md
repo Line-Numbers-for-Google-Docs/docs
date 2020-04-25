@@ -1,14 +1,12 @@
-# about
+# About
 
-## About Line Numbers for Google Docs
+## What is Line Numbers for Google Docs? 
 
 > A seamless way to numbers the lines of your Google Documents!
 
-## What is it
+Line Numbers for Google Docs is a chrome extension that lets you number the lines on any of your Google Documents formatted to your liking.
 
-Line Numbers for Google Docs is a chrome extension that lets you number your Google Documents.
-
-## Features
+## Some Key Features
 
 * Custom numbering settings for each of your documents.
 * Print your document with custom line numbering.
@@ -18,14 +16,4 @@ Line Numbers for Google Docs is a chrome extension that lets you number your Goo
 * Automatically adapts the numbering position based on the writing direction.
 * Format line numbers by changing their size, font, and color.
 * Add custom dividers between the line numbers and text.
-
-## Examples
-
-This is what it looks like.
-
-![Line Numbers for Google Docs Screenshot](https://github.com/Line-Numbers-for-Google-Docs/docs/tree/5bfece8781d73caef594a3f1bdd702e9af4e2f30/_media/example-screenshot1.png)
-
-## Looking to get started
-
-Head over to the [quick start](quickstart.md) section for a quick guide on how to start using the extension.
 
